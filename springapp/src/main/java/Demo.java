@@ -4,6 +4,7 @@ public class Demo {
         System.out.println("qwerty");
         System.out.println();
         System.out.println("qwerty");
+        System.out.println("as");
     }
     
 }
